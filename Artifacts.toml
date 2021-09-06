@@ -1,0 +1,238 @@
+[[GeographicLibWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8fcc0c93642a2bf8404b9a5b3bd790d7108ec31c"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "6c89fb2d5bc47ef47fb2546f5b61a236043076fdf8897e3b31df4a316f0f0619"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.aarch64-linux-gnu-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "effa3b999372da32bb1a0a7327ee02977e3bfc5b"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "c5a2dfcc822d3f2ae537c1d021351c704816f2a063a5bb1af2fd9cf1e813e3c1"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.aarch64-linux-gnu-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "576026b50cd457cb2f75acce4756f76dc0c73455"
+julia_version = "1.6.0"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "3a400bd2f76c0770ddd7f23eb62c24764779110fc8b36984bcff394174dcfc51"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.aarch64-linux-musl-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ecbcd41c3d21a6d2d1cc8ec4612600fff56779b4"
+julia_version = "1.6.0"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "368423131bbd2d5a27c34eceb969974b10799e2cfc69ed506624e051a5641329"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.aarch64-linux-musl-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d30f7af5924485b93682d4b183bbf8be627dc0b"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "73b2379c81e73d0632b525ce59e436dc003948d5bb9db015e6d0c64c001a58d6"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a5cd53f8562ea2e1fee08f392bf0171d715bfdb"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "8933419e56deb1a7bfcfe6b732c1fda7569c9b6e2f8d3a83ebf372ad96a75f41"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b24be4c56399babf6b335c06ec6ff97890214f6f"
+julia_version = "1.6.0"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "1939ca544b13fd40a61bc5c7a11dd0764522071ae18832efbc8a6603bda097c7"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31b80cd2125758c1cfae74424df9da64e2ca1a0e"
+julia_version = "1.6.0"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "e81afc2f9638508a487c4369e67db7ffc1b84f113c6eb967ebe83dd81e65b057"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ddb8a4b4cfaac9cd70fd548359eed4f0854a16e"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "44c046437630cc2484be5b7a1ea52c80e3e7c00d2579c39c8a9c56d626ad0940"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.i686-linux-gnu-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fd47f14c30bdf93e3c96576b6a11c0338bf3fd34"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "1b2749685094827d57e961269b79ada3123c3a06f965eaf30e6a92d549a80284"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.i686-linux-gnu-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c7b5c30f1502ed66df19b5d2cc43b4d007c740a2"
+julia_version = "1.6.0"
+os = "windows"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "cefd7b1917aeba47bb3e618d3a7b66dce7c57a10d02badd2270b60811546c2bb"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.i686-w64-mingw32-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69f475ff69dc2bdc04c9dbe3eb43cfc980bf4ec5"
+julia_version = "1.6.0"
+os = "windows"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "d711be0afb338b150070ca1d5c996bcb7601add2a57c54cbd2deeb211afe212e"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.i686-w64-mingw32-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "294e1cc344d3f59608ad3cbc00c8bc5e3a1b4021"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "8bdcaf4937d60c2062f94b5fea8c76c8ae1b0eb1c1b63ba75091c681d2d60cd8"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "50bd9e5f58ed6ccd637c109f553c4d9f743a2f2a"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "9ff810e17d12df505c81aaa5c34e73b3fa576e19a25babc0918a84b1c1e5793d"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "9083d5736827f8741e500f63a7e1fe6d448ce934"
+julia_version = "1.6.0"
+os = "macos"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "b8344aed6ad323cfde983462da5c5f1ec1b18a08696bcdd7586baea54768e08d"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-apple-darwin-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0b7723cfc2cb72d50ff65be31911739fe2b7eb1"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "ae528e90a0ebdacf7614d37fc42b156f1c17502ea5cc6b2037fe0cf0439e1a89"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-linux-gnu-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96eb9e6863c66348952b44fcf88dfc09506b4351"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "ee8d4937f5434df7e84ea553e30edda6934e1ccf8a2ec4e0561cd475120aefe3"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-linux-gnu-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aeb2f53afe7c1f8c41523eb06644b1c1dadffd07"
+julia_version = "1.6.0"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "26eb921b41f38a0dc52bba0b68fcdc599cee7987eabc117a47415ede67cb1e8f"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-linux-musl-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0727ae4dc9b42f67f34f15704ce25d92437ca63b"
+julia_version = "1.6.0"
+libc = "musl"
+os = "linux"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "94aecea449d956d812d807b8fe252263ea5a8062ce7f83a4351b7b3732a0ca63"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-linux-musl-cxx11-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "d23430b821794bee48d9735168aeaa2cfa263447"
+julia_version = "1.6.0"
+os = "freebsd"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "037147d1f9370d5dae094508ced3aebc77354f74a311180e176fa007bc6b806c"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-unknown-freebsd-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bfb64e79e7fb802ea5d9af4d362c4effa98447f7"
+julia_version = "1.6.0"
+os = "windows"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "d539e5319d4f6c7c002cb3673fdb3b3e16ed80162c2bde311f5de6c4ba4a57b6"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.0.tar.gz"
+[[GeographicLibWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d30548a9b10f5e8e8bf046719f352e4e8ef6645"
+julia_version = "1.6.0"
+os = "windows"
+
+    [[GeographicLibWrapper.download]]
+    sha256 = "22cc6e56d4e559adf4cd140ae73715e6a04280835e63478e6d4b4622ee5580fd"
+    url = "https://github.com/twadleigh/GeographicLibWrapper_jll.jl/releases/download/GeographicLibWrapper-v0.1.0+0/GeographicLibWrapper.v0.1.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.0.tar.gz"

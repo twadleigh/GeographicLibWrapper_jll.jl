@@ -1,0 +1,15 @@
+name = "GeographicLibWrapper_jll"
+uuid = "73ec4600-8e52-54a9-acd2-2fa891c2bd91"
+version = "0.1.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GeographicLib_jll = "a660ed4b-f19b-5b77-bc0d-0bc97335ea30"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"
